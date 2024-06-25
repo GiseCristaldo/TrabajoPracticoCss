@@ -1,0 +1,43 @@
+h2 {
+    margin: 15px;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+}
+table {
+    border-collapse: collapse;
+    border: 2px dashed rgb(255, 255, 255);
+    letter-spacing: 1px;
+    font-size: 1.3rem;
+    background-color:linear-gradient(to right,
+    #62a07b,
+    #4f8b89,
+    #536c8d,
+    #5c4f79) ;
+}
+
+td {
+    border: 2px dashed rgb(252, 252, 252);
+    padding: 10px 20px;
+  
+}
+
+th {
+    border: 2px dashed rgb(255, 255, 255);
+    padding: 10px 20px;
+    
+}
+
+
+.imagen {
+    text-align: center;
+    width: 100px;
+    height: auto;
+}

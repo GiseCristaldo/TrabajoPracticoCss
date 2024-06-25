@@ -1,0 +1,58 @@
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .subtitulo {
+    margin: 15px;
+  }
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1,17em;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 5px;
+    margin-block-end: 1em;
+    font-weight: bold;
+}
+
+.image {
+    float: right;
+    margin: 10px 10px 20px;
+    max-width: 25%;
+    height: auto;
+  }
+
+  .image2 {
+    float: left;
+    margin: 0 20px 20px 0;
+    max-width: 25%;
+    height: auto;
+  }
+
+  .article {
+    float: left;
+    width: 70%;
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+  }
+  #linkcenter{
+    text-align: center;
+    color: #5c4f79
+  }
+
+    

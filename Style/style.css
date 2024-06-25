@@ -1,0 +1,56 @@
+body {
+  font-family: "Playwrite DE Grund", cursive;
+  background: linear-gradient(to right, #62a07b, #4f8b89, #536c8d, #5c4f79);
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  background-color: black;
+  padding: 10px;
+  margin: 0;
+  color: #ffffff;
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+header {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #536c8d;
+}
+
+.active {
+  background-color: #5c4f79;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  clear: both;
+}
